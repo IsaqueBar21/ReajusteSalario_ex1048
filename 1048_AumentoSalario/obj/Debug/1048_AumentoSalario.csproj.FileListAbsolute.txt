@@ -1,0 +1,7 @@
+C:\CURSOS\C#\projetos\1048_AumentoSalario\1048_AumentoSalario\bin\Debug\1048_AumentoSalario.exe.config
+C:\CURSOS\C#\projetos\1048_AumentoSalario\1048_AumentoSalario\bin\Debug\1048_AumentoSalario.exe
+C:\CURSOS\C#\projetos\1048_AumentoSalario\1048_AumentoSalario\bin\Debug\1048_AumentoSalario.pdb
+C:\CURSOS\C#\projetos\1048_AumentoSalario\1048_AumentoSalario\obj\Debug\1048_AumentoSalario.csproj.AssemblyReference.cache
+C:\CURSOS\C#\projetos\1048_AumentoSalario\1048_AumentoSalario\obj\Debug\1048_AumentoSalario.csproj.CoreCompileInputs.cache
+C:\CURSOS\C#\projetos\1048_AumentoSalario\1048_AumentoSalario\obj\Debug\1048_AumentoSalario.exe
+C:\CURSOS\C#\projetos\1048_AumentoSalario\1048_AumentoSalario\obj\Debug\1048_AumentoSalario.pdb
